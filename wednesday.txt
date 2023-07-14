@@ -1,1 +1,2 @@
 i Today is Wednesday.
+Hello, Hi, Bye tata
